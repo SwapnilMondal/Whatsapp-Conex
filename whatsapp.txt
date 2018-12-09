@@ -2,4 +2,4 @@ label class: _2MSJr
 search class: jN-F5 copyable-text selectable-text
 group class: _
 this is constant in search: gQzDc => gQzdc_3sdhb 
-O90ur
+O90ur (this is the value which helps you in targeting the contacts saved or otherwise)
